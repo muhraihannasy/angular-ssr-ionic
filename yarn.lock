@@ -1503,6 +1503,14 @@
   resolved "https://registry.yarnpkg.com/@esbuild/win32-x64/-/win32-x64-0.20.1.tgz#77583b6ea54cee7c1410ebbd54051b6a3fcbd8ba"
   integrity sha512-0MBh53o6XtI6ctDnRMeQ+xoCN8kD2qI1rY1KgF/xdWQwoFeKou7puvDfV8/Wv4Ctx2rRpET/gGdz3YlNtNACSA==
 
+"@ionic/angular-server@^8.0.0":
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/@ionic/angular-server/-/angular-server-8.0.0.tgz#b2a7820d873e6609a6632e360900b9968a9a19bb"
+  integrity sha512-Gz3U/dMcbdI9hFQ8MDPoN8qH9vzp25UuPKNkQqmTH7lMWWK7edQ70XpL0rVDK/vFEa3MoxyTvwkhgRGYlXnhRQ==
+  dependencies:
+    "@ionic/core" "8.0.0"
+    tslib "^2.3.0"
+
 "@ionic/angular-toolkit@latest":
   version "11.0.1"
   resolved "https://registry.yarnpkg.com/@ionic/angular-toolkit/-/angular-toolkit-11.0.1.tgz#96728b8a105a3c7d7d3a2ec9ae32168696cc3635"
